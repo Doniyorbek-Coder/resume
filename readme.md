@@ -10,6 +10,6 @@ Now I'm learning **Basic Git Commands**
 
 Contact me:
 
--**Telegram:** @d0n1y0r_c0der
--**Gmail:** asqaraliyev19991022@gmail.com
--**Phone:** +998909171733
+- **Telegram:** @d0n1y0r_c0der
+- **Gmail:** asqaraliyev19991022@gmail.com
+- **Phone:** +998909171733
